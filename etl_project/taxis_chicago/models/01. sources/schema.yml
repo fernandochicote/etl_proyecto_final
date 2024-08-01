@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: load_taxi_trips
+    description: "Modelo de datos para los viajes en bicyaxiicleta de la ciudad de Chicago hasta 2023."
